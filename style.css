@@ -1,0 +1,29 @@
+h2{
+    font-size: 30px;
+    text-align: center;
+    color: blue;
+}
+button{
+    width: 200px;
+    padding: 5px 10px;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: 'Times New Roman';
+    color: blueviolet;
+    background-color:whitesmoke;
+    border: 2 px solid black;
+    border-radius: 10px;
+    text-align: center;
+    justify-content: center;
+    align-self: center;
+    margin-left: 45%;
+
+    
+}
+#click-btn{
+    font-size: large;
+    color: blueviolet;
+    font-weight: bold;
+    font-family: 'Times New Roman';
+    text-align: center;
+}
